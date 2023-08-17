@@ -8,10 +8,10 @@ OpticalFiber-P2P is a Python-based simulation tool for point-to-point optical fi
 
 ## Getting Started
 Follow these steps to get started with OpticalFiber-P2P:
-1. Clone the repository: 'git clone https://github.com/fadhilahzidan/OpticalFiber-P2P.git'
-2. Navigate to the project directory: 'cd OpticalFiber-P2P'
-3. Install the required dependencies: 'pip install [depedency]'
-4. Run the simulation script: 'python calculate.py'
+1. Clone the repository: `git clone https://github.com/fadhilahzidan/OpticalFiber-P2P.git`
+2. Navigate to the project directory: `cd OpticalFiber-P2P`
+3. Install the required dependencies: `pip install [depedency]`
+4. Run the simulation script: `python calculate.py`
 
 ## Usage
 1. Input the necessary parameters such as transmitter power, receiver sensitivity, fiber length, etc.
